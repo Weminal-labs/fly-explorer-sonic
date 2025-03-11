@@ -10,4 +10,3 @@
 [submodule "fly-explorer-agent-sonic"]
 	path = fly-explorer-agent-sonic
 	url = https://github.com/AnhQuan2004/AgentSonic.git
-	branch = final
