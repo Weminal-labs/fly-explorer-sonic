@@ -4,3 +4,6 @@
 [submodule "flyfish-extension"]
 	path = flyfish-extension
 	url = https://github.com/Weminal-labs/flyfish-extension
+[submodule "fly-explorer-frontend-sonic"]
+	path = fly-explorer-frontend-sonic
+	url = https://github.com/lochoang174/fly-sonic
