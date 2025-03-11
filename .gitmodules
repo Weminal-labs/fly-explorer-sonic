@@ -1,3 +1,6 @@
 [submodule "fly-explorer-bounty-contract-sonic"]
 	path = fly-explorer-bounty-contract-sonic
 	url = https://github.com/Weminal-labs/fly-explorer-bounty-contract-sonic
+[submodule "flyfish-extension"]
+	path = flyfish-extension
+	url = https://github.com/Weminal-labs/flyfish-extension
